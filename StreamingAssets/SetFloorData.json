@@ -1,0 +1,93 @@
+{
+  "alias": "测试楼层001",
+  "cityId": "DIC_REGION/j3_1/PRV_HEB/PRV_HEB_LF",
+  "dataCenterId": "5662239298990982235",
+  "dataCenterName": "3D测试数据中心",
+  "buildId": "7336422126079274427",
+  "buildName": "XDC 3D 楼宇",
+  "floorId": "1_7336422126079274427",
+  "floorIndex": "1",
+  "floorName": "B1",
+  "floorModel": {
+    "id": "floor-taiyuedasha-18f",
+    "name": "泰岳大厦-18层机房",
+    "description": "这是第一种列头柜模型"
+  },
+  "setRoomDatas": [
+    {
+      "roomId": "7258786232118311577",
+      "roomDataName": "XDC 3D 机房",
+      "roomModelName": "room-003",
+      "topMargin": 40.0,
+      "bottomMargin": 57.0559349,
+      "leftMargin": 91.21597,
+      "rightMargin": 89.77372,
+      "columns": 4,
+      "rows": 5,
+      "columnDis": 81.80341,
+      "isSplit": true,
+      "frontCabinetModel": {
+        "id": "colcabinet-black-001",
+        "name": "列头柜-黑色-001",
+        "description": "这是第一种列头柜模型"
+      },
+      "cabinetModel": {
+        "id": "cabinet-black-42U",
+        "name": "机柜-黑色-42U",
+        "description": "这是42U机柜柜模型"
+      },
+      "arrangement": 0,
+      "alignment": 1
+    },
+    {
+      "roomId": "8521343856374702006",
+      "roomDataName": "XDC 3D 机房3",
+      "roomModelName": "room-001",
+      "topMargin": 40.0,
+      "bottomMargin": 190.4683,
+      "leftMargin": 51.9075279,
+      "rightMargin": 40.0,
+      "columns": 9,
+      "rows": 5,
+      "columnDis": 99.42156,
+      "isSplit": true,
+      "frontCabinetModel": {
+        "id": "colcabinet-black-002",
+        "name": "列头柜-黑色-002",
+        "description": "这是第二种列头柜模型"
+      },
+      "cabinetModel": {
+        "id": "cabinet-black-45U",
+        "name": "机柜-黑色-45U",
+        "description": "这是45U机柜柜模型"
+      },
+      "arrangement": 0,
+      "alignment": 3
+    },
+    {
+      "roomId": "7236709269504670996",
+      "roomDataName": "XDC 3D 机房2",
+      "roomModelName": "room-002",
+      "topMargin": 80.96167,
+      "bottomMargin": 72.40638,
+      "leftMargin": 113.146469,
+      "rightMargin": 98.0545349,
+      "columns": 2,
+      "rows": 6,
+      "columnDis": 40.0,
+      "isSplit": false,
+      "frontCabinetModel": {
+        "id": "colcabinet-black-001",
+        "name": "列头柜-黑色-001",
+        "description": "这是第一种列头柜模型"
+      },
+      "cabinetModel": {
+        "id": "cabinet-black-45U",
+        "name": "机柜-黑色-45U",
+        "description": "这是45U机柜柜模型"
+      },
+      "arrangement": 0,
+      "alignment": 0
+    }
+  ]
+}

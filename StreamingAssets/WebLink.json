@@ -1,0 +1,42 @@
+[
+  {
+    "id": "WR_00001",
+    "name": "连接服务器网口",
+    "startDeviceID": "131_E06454",
+    "startDeviceName": "客专路由器",
+    "startPort": "PORT_08",
+    "endDeviceID": "133_E0272",
+    "endDeviceName": "NAS数据库",
+    "endPort": "1"
+  },
+  {
+    "id": "WR_00087",
+    "name": "连接汇聚交换机",
+    "startDeviceID": "112_E0528",
+    "startDeviceName": "路由器",
+    "startPort": "PORT_01",
+    "endDeviceID": "131_E0645",
+    "endDeviceName": "客专路由器",
+    "endPort": "PORT_08"
+  },
+  {
+    "id": "WR_00025",
+    "name": "连接路由器",
+    "startDeviceID": "132_E0958",
+    "startDeviceName": "路由器",
+    "startPort": "PORT_01",
+    "endDeviceID": "130_E0365",
+    "endDeviceName": "NAS数据库",
+    "endPort": "PORT_07"
+  },
+  {
+    "id": "WR_00036",
+    "name": "连接数据库",
+    "startDeviceID": "134_E0936",
+    "startDeviceName": "变频器",
+    "startPort": "PORT_12",
+    "endDeviceID": "130_E0462",
+    "endDeviceName": "NAS数据库",
+    "endPort": "PORT_05"
+  }
+]
