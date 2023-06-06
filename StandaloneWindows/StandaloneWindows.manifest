@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2581962783
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube
+      Dependencies: {}
+    Info_1:
+      Name: 1_1
+      Dependencies: {}
+    Info_2:
+      Name: 1_2
+      Dependencies: {}
+    Info_3:
+      Name: 1_3
+      Dependencies: {}
+    Info_4:
+      Name: 1_4
+      Dependencies: {}
+    Info_5:
+      Name: 2_1
+      Dependencies: {}
+    Info_6:
+      Name: 2_2
+      Dependencies: {}
+    Info_7:
+      Name: 2_3
+      Dependencies: {}
+    Info_8:
+      Name: 2_4
+      Dependencies: {}
+    Info_9:
+      Name: 3-1
+      Dependencies: {}
+    Info_10:
+      Name: 3_3
+      Dependencies: {}
+    Info_11:
+      Name: 3_4
+      Dependencies: {}
+    Info_12:
+      Name: 4-2
+      Dependencies: {}
+    Info_13:
+      Name: 4-4
+      Dependencies: {}
+    Info_14:
+      Name: 4-3
+      Dependencies: {}
+    Info_15:
+      Name: 4-1
+      Dependencies: {}
+    Info_16:
+      Name: 3_2
+      Dependencies: {}
